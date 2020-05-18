@@ -16,7 +16,7 @@ This is a time series forecasting problem where I forecasted number of visitors 
 
 ## Screenshots
 ### Visitors Over time
-![Example screenshot](./src/Visitors Over Time.JPG)
+![Example screenshot](./src/visitors_over_time.JPG)
 
 ### Visitors distribution Weekdays VS Weekends
 ![Example screenshot](./src/visitors_Across_holidays.JPG)

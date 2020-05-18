@@ -15,20 +15,18 @@
 This is a time series forecasting problem where I forecasted number of visitors for different restaurants. The data was in 8 relational files which are derived from two separate JApansese websits that collects user information. Used classical methods such as Arima, Prophet and Holt Winters for forecasting.
 
 ## Screenshots
-### Types of Data
-![Example screenshot](./src/types_of_data.JPG)
+### Visitors Over time
+![Example screenshot](./src/Visitors Over Time.JPG)
 
-### Sales Trend for Given years
-![Example screenshot](./src/sales_trend.JPG)
+### Visitors distribution Weekdays VS Weekends
+![Example screenshot](./src/visitors_Across_holidays.JPG)
 
-### sales for given years
-![Example screenshot](./src/sales_among_plants.JPG)
+### Train Test Split
+![Example screenshot](./src/train_test.JPG)
 
-### Recommended KPIs
-![Example screenshot](./src/kpis.JPG)
+### Forecast for Restaurant
+![Example screenshot](./src/forecast_for_one_restaurant.JPG)
 
-### Predicted Sales
-![Example screenshot](./src/predicted_sales.JPG)
 
 ## Technologies and Tools
 * R

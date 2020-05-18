@@ -19,10 +19,10 @@ It is a time series forecasting problem where I have forcasted number of future 
 ![Example screenshot](./src/visitors_over_time.JPG)
 
 ### Sales Trend for Given years
-![Example screenshot](./src/visitors_across_holidays.JPG)
+![Example screenshot](./src/visitors_Across_holidays.JPG)
 
 ### sales for given years
-![Example screenshot](./src/train_test_split.JPG)
+![Example screenshot](./src/train_test.JPG)
 
 ### Recommended KPIs
 ![Example screenshot](./src/forecast_for_one_restaurant.JPG)
